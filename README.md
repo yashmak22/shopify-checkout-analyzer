@@ -86,3 +86,6 @@ The tool logs detailed information to `checkout_analyzer.log` in the same direct
 ## License
 
 This tool is proprietary software. Unauthorized use, reproduction, or distribution is strictly prohibited.
+=======
+# shopify-checkout-analyzer
+>>>>>>> 1b9518345f4a8cb77eee117c874b2f88b4a7da2a
